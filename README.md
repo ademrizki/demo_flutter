@@ -1,6 +1,6 @@
 # demo_flutter
 
-A new Flutter project.
+A new Flutter project by junan
 
 ## Getting Started
 
@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-junan was here
+
